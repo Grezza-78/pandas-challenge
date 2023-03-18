@@ -1,6 +1,6 @@
 # pandas-challenge
 
-### Written Report
+# Written Report
 
 # The analyses undertaken in this report assess the standardised test results from an local government area with a particular
 # focus on math and reading scores specific to government and independent schools in the area. 
